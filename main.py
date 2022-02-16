@@ -118,11 +118,3 @@ for i in range(0,5):
     first_dict["name"] = event_final_links[i]
     final_dict[i] = first_dict
 print(final_dict)
-
-# from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service
-#
-# service = Service("C:\Development\chromedriver.exe")
-# driver = webdriver.Chrome(service=service)
-#
-# driver.get("https://yahoo.co.in")
