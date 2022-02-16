@@ -6,3 +6,4 @@ on the right hand side , there's a store that provides multiple items such as cu
 this project uses selenium and pycharm , and time module to keep a track on the time elapsed .
 in the code, it runs for a total of 5 mins, and after every 5 seconds, it checks the available items by comparing the cost with the counter, and automatically purchases the product with the highest cost.
 to run it , you can either paste the code into pycharm and alter the code to chromedriver.exe as per your system. 
+you can also watch the video preview of this code at : https://youtu.be/S_b6XtT4LzM
